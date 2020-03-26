@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+ background-color: #eeeeee;
+ /* background: url(../img/bg.png) repeat 0 0;*/
+/* background: url(../img/bg.png) no-repeat center center fixed;*/
+}
+
+.hero-image {
+   background: url(../img/Group-180.png) ;
+  background-color:#eeeeee;
+  width: 1920px;
+height: 1052px;
+ background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+/*  overflow: hidden;*/
+}
+.container{
+
+left: 303px;
+/*width: 1314px;
+*/
+}
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 132px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.secure-payment{
+	top: 309px;
+left: 290px;
+width: 333px;
+height: 88px;
+opacity: 1;
+position: absolute;
+}
+.main-text{
+top: 425px;
+left: 303px;
+/*width: 1314px;*/
+height: 50px;
+text-align: center;
+font-size: 37px;
+line-height: 50px;
+letter-spacing: 0;
+color: #253A57;
+opacity: 1;
+position: absolute;
+text-align: left;}
+
+button{
+	top: 515px;
+left: 818px;
+width: 285px;
+height: 55px;
+background: #E80D47 0% 0% no-repeat padding-box;
+border-radius: 7px;
+opacity: 1;
+position: absolute;
+text-align: center;
+font: Bold 26px/35px Nunito;
+letter-spacing: 0;
+color: #FFFFFF;
+text-transform: uppercase;
+opacity: 1;
+}
+/*footer{top: 769px;
+	left: 484px;
+	position: absolute;
+}*/
+.lock{
+width: 105px;
+height: 89px;
+top: 769px;
+	left: 484px;
+opacity: 1;
+position: absolute;}
+.lock-text{
+	top: 769px;
+left: 596px;
+width: 728px;
+height: 41px;
+text-align: center;
+font-size: 30px;
+line-height: 41px;
+letter-spacing: 0;
+color: #253A57;
+position: absolute;
+}
