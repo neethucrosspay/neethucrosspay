@@ -30,6 +30,13 @@ left: 303px;
   color: white;
 }
 .p-1 {
+  top: 132px;
+  left: 50%;
+     position: absolute;}
+.p-2 {
+top: 756px;
+    left: 51%;
+     position: absolute;}
 .secure-payment{
 	top:255px;
 	left:43%;
