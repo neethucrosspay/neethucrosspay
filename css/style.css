@@ -34,11 +34,11 @@ left: 303px;
   left: 50%;
      position: absolute;}
 .p-2 {
-top: 756px;
+top: 804px;
     left: 51%;
      position: absolute;}
 .secure-payment{
-	top:255px;
+	top:248px;
 	left:41%;
 /*left: 290px;*/
 width: 333px;
@@ -52,22 +52,24 @@ position: absolute;
 left: 303px;*/
 /*width: 1314px;*/
 height: 50px;
-text-align: center;
 font-size: 37px;
 line-height: 50px;
 letter-spacing: 0;
 color: #253A57;
 opacity: 1;
 position: absolute;
-text-align: left;}
+}
 .main-text-t1{
 top: 425px;
 left: 303px;
-position: absolute;}
+position: absolute;
+text-align: left;}
 .main-text-t2{    
-	top:357px;
-    left: 195px;
+	top:355px;
+    left: 205px;
+    width:1573px;
     position: absolute;
+    text-align: center;
 }
 
 button{
@@ -96,7 +98,7 @@ position: absolute;
     position: absolute;
 }
 footer{ 
-	top:815px;
+	top:868px;
     left: 111px;
 position:absolute; }
 .lock{
