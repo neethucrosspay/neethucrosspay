@@ -34,11 +34,11 @@ left: 303px;
   left: 50%;
      position: absolute;}
 .p-2 {
-top: 804px;
-    left: 51%;
+top: 652px;
+    left:961px;
      position: absolute;}
 .secure-payment{
-	top:248px;
+	top:171px;
 	left:41%;
 /*left: 290px;*/
 width: 333px;
@@ -48,16 +48,12 @@ position: absolute;
 }
 
 .main-text{
-/*top: 425px;
-left: 303px;*/
-/*width: 1314px;*/
 height: 50px;
-font-size: 37px;
-line-height: 50px;
-letter-spacing: 0;
-color: #253A57;
-opacity: 1;
-position: absolute;
+    font-size: 30px;
+    line-height:41px;
+    letter-spacing: 0;
+    color: #253A57;
+    opacity: 1;
 }
 .main-text-t1{
 top: 425px;
@@ -65,9 +61,9 @@ left: 303px;
 position: absolute;
 text-align: left;}
 .main-text-t2{    
-	top:355px;
-    left: 205px;
-    width:1573px;
+	top: 293px;
+    left: 314px;
+    width: 1290px;
     position: absolute;
     text-align: center;
 }
@@ -93,12 +89,12 @@ left: 818px;
 position: absolute;
 }
 .btn-p-2{
-	 top:596px;
-    left: 831px;
+	 top:453px;
+    left: 818px;
     position: absolute;
 }
 footer{ 
-	top:868px;
+	top:750px;
     left: 111px;
 position:absolute; }
 .lock{
@@ -121,8 +117,8 @@ position: absolute;
 }
 .card-img{
 	/*top: 878px;*/
-	top:76px;
-left: 795px;
+	top:109px;
+left: 759px;
 width: 178px;
 height: 77px;
 opacity: 1;
