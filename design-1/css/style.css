@@ -26,50 +26,36 @@ left: 303px;
 .hero-text {
   text-align: center;
   position: absolute;
+  top: 132px;
+  left: 50%;
   transform: translate(-50%, -50%);
   color: white;
 }
-.p-1 {
-  top: 132px;
-  left: 50%;
-     position: absolute;}
-.p-2 {
-top: 652px;
-    left:961px;
-     position: absolute;}
 .secure-payment{
-	top:171px;
-	left:41%;
-/*left: 290px;*/
+	top: 309px;
+left: 290px;
 width: 333px;
 height: 88px;
 opacity: 1;
 position: absolute;
 }
-
 .main-text{
-height: 50px;
-    font-size: 30px;
-    line-height:41px;
-    letter-spacing: 0;
-    color: #253A57;
-    opacity: 1;
-}
-.main-text-t1{
 top: 425px;
 left: 303px;
+/*width: 1314px;*/
+height: 50px;
+text-align: center;
+font-size: 37px;
+line-height: 50px;
+letter-spacing: 0;
+color: #253A57;
+opacity: 1;
 position: absolute;
 text-align: left;}
-.main-text-t2{    
-	top: 293px;
-    left: 314px;
-    width: 1290px;
-    position: absolute;
-    text-align: center;
-}
 
 button{
-	
+	top: 515px;
+left: 818px;
 width: 285px;
 height: 55px;
 background: #E80D47 0% 0% no-repeat padding-box;
@@ -83,30 +69,21 @@ color: #FFFFFF;
 text-transform: uppercase;
 opacity: 1;
 }
-.btn-p-1{
-	top: 515px;
-left: 818px;
-position: absolute;
-}
-.btn-p-2{
-	 top:453px;
-    left: 818px;
-    position: absolute;
-}
-footer{ 
-	top:750px;
-    left: 111px;
-position:absolute; }
+/*footer{top: 769px;
+	left: 484px;
+	position: absolute;
+}*/
 .lock{
 width: 105px;
 height: 89px;
-left: 484px;
+top: 769px;
+	left: 484px;
 opacity: 1;
 position: absolute;}
-
 .lock-text{
+	top: 769px;
 left: 596px;
-width: 780px;
+width: 728px;
 height: 41px;
 text-align: center;
 font-size: 30px;
@@ -114,14 +91,4 @@ line-height: 41px;
 letter-spacing: 0;
 color: #253A57;
 position: absolute;
-}
-.card-img{
-	/*top: 878px;*/
-	top:109px;
-left: 759px;
-width: 178px;
-height: 77px;
-opacity: 1;
-  text-align: center;
-  position: absolute;
 }
